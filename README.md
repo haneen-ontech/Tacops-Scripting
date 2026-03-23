@@ -5,7 +5,7 @@ Diff scripting questions
 
 
 Headquarters needs a quick roster of who logged in from the China office. The system log includes entries from all locations, but we only care about the workers in China.
-Your task: extract only the names of workers who logged in from China, in the order they appear, one per line.
+Your task: extract only the names of workers who logged in from China, in the order they appear.
 
 Example stdin: 
 
