@@ -11,27 +11,27 @@ Example stdin:
 
 [Germany] Zara Chowdhury - 16:34  
 Database synced  
-[China] Nora Lui - 17:20  
+[China] Jennifer Jacobs - 17:20  
 [France] David Campbell - 10:11  
 [Canada] Leila Howard - 04:35  
 Backup completed  
 [Brazil] Satoshi Turner - 09:34  
 [Canada] Elijah Roberts - 18:58  
 No activity  
-[China] Nancy Zhang - 09:34  
+[China] Mark Zhang - 09:34  
 [Japan] Xavier Evans - 19:38  
 [Germany] Ananya Richardson - 12:10  
 [France] Ethan Gupta - 04:47  
 Error: connection lost  
-[China] Chloe Lee - 20:20  
+[China] Sarah Lee - 20:20  
 
 Example stdout:
 
-Nora Lui  
-Nancy Zhang  
-Chloe Lee  
+Jennifer Jacobs
+Mark Zhang
+Sarah Lee
 
 The flag should be the names found concatenated with no spaces.
 
-Ex. tacops{NoraLuiNancyZhangChloeLee}
+Ex. tacops{JenniferJacobsMarkZhangSarahLee}
 
