@@ -25,13 +25,9 @@ No activity
 Error: connection lost  
 [China] Sarah Lee - 20:20  
 
-Example stdout:
+Example Stdout:
 
-Jennifer Jacobs
-Mark Zhang
-Sarah Lee
-
-The flag should be the names found concatenated with no spaces.
+Note: The flag should be the names found concatenated with no spaces.
 
 Ex. tacops{JenniferJacobsMarkZhangSarahLee}
 
