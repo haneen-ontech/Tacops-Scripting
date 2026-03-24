@@ -31,3 +31,18 @@ Note: The flag should be the names found concatenated with no spaces.
 
 Ex. tacops{JenniferJacobsMarkZhangSarahLee}
 
+# Challenge 2: Who's Logged In Pt 2
+
+So you completed the first task? We have a new job for you. We need a list of admin login IDs from the UK.
+
+Each log entry contains a one-time login ID, but these IDs are encoded. When properly decoded, valid admin IDs will contain the string 'ADMIN' somewhere within them. Be aware that the logs include noise and invalid IDs, which should be ignored.
+From the valid UK admin entries, extract the login IDs, remove the ADMIN portion, and concatenate the remaining values in the order they appear (top to bottom) to form the flag.
+
+Here is a copy of the log file you will be working with. 
+
+https://drive.google.com/uc?export=download&id=14OtTlChAGL6RpI8C7BOtfmrx8Mg5-pQK 
+
+Best, 
+Headquarters
+
+
